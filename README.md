@@ -146,7 +146,7 @@ docs/
 
 ## Penulis
 
-<Maulida Hasanah> — NPM <2410010242>
+Maulida Hasanah — NPM <2410010242>
 
 ## Lisensi
 
